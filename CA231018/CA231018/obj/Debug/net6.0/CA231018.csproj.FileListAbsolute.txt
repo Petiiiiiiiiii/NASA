@@ -1,0 +1,15 @@
+C:\Users\BOSS\source\repos\CA231018\CA231018\bin\Debug\net6.0\CA231018.exe
+C:\Users\BOSS\source\repos\CA231018\CA231018\bin\Debug\net6.0\CA231018.deps.json
+C:\Users\BOSS\source\repos\CA231018\CA231018\bin\Debug\net6.0\CA231018.runtimeconfig.json
+C:\Users\BOSS\source\repos\CA231018\CA231018\bin\Debug\net6.0\CA231018.dll
+C:\Users\BOSS\source\repos\CA231018\CA231018\bin\Debug\net6.0\CA231018.pdb
+C:\Users\BOSS\source\repos\CA231018\CA231018\obj\Debug\net6.0\CA231018.csproj.AssemblyReference.cache
+C:\Users\BOSS\source\repos\CA231018\CA231018\obj\Debug\net6.0\CA231018.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BOSS\source\repos\CA231018\CA231018\obj\Debug\net6.0\CA231018.AssemblyInfoInputs.cache
+C:\Users\BOSS\source\repos\CA231018\CA231018\obj\Debug\net6.0\CA231018.AssemblyInfo.cs
+C:\Users\BOSS\source\repos\CA231018\CA231018\obj\Debug\net6.0\CA231018.csproj.CoreCompileInputs.cache
+C:\Users\BOSS\source\repos\CA231018\CA231018\obj\Debug\net6.0\CA231018.dll
+C:\Users\BOSS\source\repos\CA231018\CA231018\obj\Debug\net6.0\refint\CA231018.dll
+C:\Users\BOSS\source\repos\CA231018\CA231018\obj\Debug\net6.0\CA231018.pdb
+C:\Users\BOSS\source\repos\CA231018\CA231018\obj\Debug\net6.0\CA231018.genruntimeconfig.cache
+C:\Users\BOSS\source\repos\CA231018\CA231018\obj\Debug\net6.0\ref\CA231018.dll
